@@ -1,0 +1,6 @@
+echo "==================================================="
+echo "Worplet - a WordPress droplet!"
+echo "Version 1.1"
+echo "Published under GNU GENERAL PUBLIC LICENSE"
+echo "Fork at: github/ingdevelopers/wordpress-droplet"
+echo "==================================================="
