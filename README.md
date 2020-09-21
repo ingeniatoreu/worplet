@@ -37,7 +37,7 @@
 
 ### clone repository
 
-`git clone https://github.com/ingdevs/worplet.git worplet`
+`git clone https://github.com/ingeniatoreu/worplet.git worplet`
 
 ### run
 
@@ -57,7 +57,7 @@
 
 ### get startup file
 
-`sudo wget https://raw.githubusercontent.com/ingdevs/worplet/master/startup.sh`
+`sudo wget https://raw.githubusercontent.com/ingeniatoreu/worplet/master/startup.sh`
 
 ### run
 
