@@ -29,7 +29,7 @@ printf -- "\e[93mWORPLET [v1.1] \e[0m"
 printf -- "\n"
 printf -- "\e[2mautomatic wordpress installer and optimizer!\e[0m"
 printf -- "\n"
-printf -- "\e[2mcopyright (c) 2019, ingdevs\e[0m"
+printf -- "\e[2mcopyright (c) 2019-2020, ingeniatoreu\e[0m"
 printf -- "\n"
 
 #public IP
@@ -327,7 +327,7 @@ printf -- "installing nginx site config..."
 printf -- "\n"
 configure_nginx_site () {
   cd /etc/nginx/sites-available/ &&
-  sudo curl -L -O https://raw.githubusercontent.com/ingdevs/worplet/master/wordpress &&
+  sudo curl -L -O https://raw.githubusercontent.com/ingeniatoreu/worplet/master/wordpress &&
   sudo ln -s /etc/nginx/sites-available/wordpress /etc/nginx/sites-enabled/
 }
 configure_nginx_site 1>>$LOG 2>>$ERR_LOG
