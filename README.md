@@ -68,7 +68,7 @@
 &nbsp;
 &nbsp;
 
-Copyright (c) 2020, ingeniatoreu
+Copyright (c) 2020, ingeniator
 
 &nbsp;
 
